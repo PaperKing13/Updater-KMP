@@ -207,7 +207,7 @@
         { "deviceName": "REDMI Note 17 / POCO M8 Power", "deviceCodeName": "mist", "deviceCode": "PU" },
         { "deviceName": "REDMI Note 17 Pro / POCO X8", "deviceCodeName": "iolite", "deviceCode": "DQ" },
         { "deviceName": "REDMI K100 Pro / POCO F9 Pro", "deviceCodeName": "athens", "deviceCode": "PI" },
-        { "deviceName": "REDMI K100 Pro Max / POCO F9 Ultra", "deviceCodeName": "athens", "deviceCode": "GN" },
+        { "deviceName": "REDMI K100 Pro Max / POCO F9 Ultra", "deviceCodeName": "songyuan", "deviceCode": "GN" },
         { "deviceName": "REDMI K Pad 2", "deviceCodeName": "yili", "deviceCode": "AK" },
         { "deviceName": "REDMI Pad 2 SE / REDMI Pad 2 9.7 / POCO Pad C1", "deviceCodeName": "guitar", "deviceCode": "DN" },
         { "deviceName": "REDMI Pad 2 SE 4G / REDMI Pad 2 9.7 4G", "deviceCodeName": "erhu", "deviceCode": "DO" },
